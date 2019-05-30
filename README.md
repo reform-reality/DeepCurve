@@ -1,2 +1,1 @@
-# DeepCurve
-Code for DeepCurve
+Reform_Reality_Deep_Curve
